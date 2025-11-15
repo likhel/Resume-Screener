@@ -1,0 +1,225 @@
+filename,embedding_score,skill_overlap,ner_bonus,final_score,matched_skills
+Anil Krishna Mogalaturthi.docx,0.625225,0.209091,0.7,0.490794,5
+Vinay.D_Resume.docx,0.582971,0.041818,0.7,0.411122,1
+Vijay Bhargav.docx,0.481288,0.238278,0.4,0.384041,6
+Balakrishna Sudabathula.docx,0.507546,0.196591,0.4,0.38258,5
+Jaya prakash.docx,0.469177,0.234812,0.4,0.376773,6
+Rohanu Resume.docx,0.549162,0.083636,0.4,0.363854,2
+manohar.B.docx,0.514866,0.120455,0.4,0.359592,3
+Kashyap K. Vora resume.docx,0.419512,0.119139,0.7,0.356454,3
+Mani_Hadoop.docx,0.47089,0.165982,0.4,0.353539,4
+Rajesh_k.docx,0.458936,0.040152,0.7,0.348521,1
+Balaji Gopalakrishnan Project Manager.docx,0.516935,0.082386,0.4,0.347303,2
+Praveen B.docx,0.54249,0.045455,0.4,0.347154,1
+Neha Mugghala.docx,0.455054,0.040152,0.7,0.34658,1
+mohid_rj.docx,0.455911,0.164773,0.4,0.345626,4
+vikas java.docx,0.460137,0.158042,0.4,0.345383,4
+Yugesh_Resume.docx,0.481187,0.121925,0.4,0.343267,3
+Tushar Patel.docx,0.508052,0.080779,0.4,0.342299,2
+Achyuth Resume_8.docx,0.448394,0.164773,0.4,0.341867,4
+Tarun.docx,0.502338,0.081818,0.4,0.339806,2
+srinivas b.docx,0.52234,0.041496,0.4,0.335693,1
+SaravanaKumar.docx,0.486434,0.085065,0.4,0.33299,2
+Satish Reddy.docx,0.489453,0.080303,0.4,0.332832,2
+Pierre John.docx,0.415051,0.121169,0.55,0.332435,3
+Naveen.S_Resume.docx,0.4955,0.041496,0.4,0.322274,1
+Manohar Reddy.docx,0.412566,0.159705,0.4,0.32218,4
+madhuri R.docx,0.466632,0.082386,0.4,0.322151,2
+Pavan Kumar Full Stack Java Developer.docx,0.437139,0.124487,0.4,0.32214,3
+PM RESUME.docx,0.460646,0.085859,0.4,0.320373,2
+Sundar_Java_8+ Years..docx,0.428343,0.0,0.7,0.319172,0
+indrakaran soma.docx,0.431028,0.122727,0.4,0.318468,3
+Amulya Komatineni.docx,0.400335,0.162567,0.4,0.317066,4
+Kumar Raj.docx,0.456893,0.081283,0.4,0.316896,2
+Harish K.docx,0.456001,0.081283,0.4,0.31645,2
+Vishal S..docx,0.481301,0.043357,0.4,0.315825,1
+Dantu Padmasri - Project Manager.docx,0.392955,0.040642,0.7,0.315702,1
+Priya B.docx,0.454836,0.078271,0.4,0.314813,2
+Sravani Singirikonda.docx,0.415969,0.121925,0.4,0.310658,3
+Venkat_BA.docx,0.493607,0.0,0.4,0.306803,0
+chenna kesava.docx,0.407341,0.121925,0.4,0.306344,3
+Derik.docx,0.433715,0.080303,0.4,0.304964,2
+Dave.docx,0.433715,0.080303,0.4,0.304964,2
+Alekhya Resume.docx,0.458753,0.042163,0.4,0.304134,1
+Gururaja Murthy PMCPCSM.docx,0.396709,0.0,0.7,0.303354,0
+Manohar B.docx,0.458783,0.125455,0.2,0.303301,3
+Madhuri Pawar.docx,0.42636,0.042929,0.5,0.303205,1
+Shail_Tank-Business Analyst .docx,0.485658,0.0,0.4,0.302829,0
+kalyan das.docx,0.42819,0.081818,0.4,0.302732,2
+Naveen Kumar Bandela.docx,0.427469,0.078636,0.4,0.301257,2
+Sudhakar Reddy.docx,0.453194,0.041496,0.4,0.30112,1
+CHETAN_Sr Java Developer.docx,0.397632,0.118531,0.4,0.300302,3
+BA - Abhishek.docx,0.419226,0.086713,0.4,0.299963,2
+Sharath Java.docx,0.402754,0.195676,0.2,0.299864,5
+Vivek Joshi_CV.docx,0.449425,0.041496,0.4,0.299236,1
+Rashmitha R.docx,0.392793,0.121925,0.4,0.299071,3
+RaviBurra_Certified PM_DevOps.docx,0.446988,0.043357,0.4,0.298669,1
+Sri Gati.docx,0.418423,0.081283,0.4,0.297661,2
+Jimi_Desai_PM.docx,0.444539,0.042532,0.4,0.297156,1
+Nikhil.docx,0.415786,0.082386,0.4,0.296728,2
+Prashant Chawda_resume.docx,0.382675,0.0,0.7,0.296338,0
+Shelly Woods.docx,0.387594,0.121169,0.4,0.296206,3
+Manikanta P.docx,0.385652,0.122727,0.4,0.29578,3
+Utthan Silawal12.docx,0.467356,0.0,0.4,0.293678,0
+Ravi Pattar- Sr. Agile Program manager.docx,0.437054,0.042532,0.4,0.293414,1
+Bapuji Hadoop developer.docx,0.435404,0.042163,0.4,0.292459,1
+Tarun_Developer.docx,0.374566,0.0,0.7,0.292283,0
+Harshitha Challa.docx,0.408544,0.079426,0.4,0.292071,2
+ram nandyala.docx,0.351031,0.161558,0.4,0.292061,4
+Saiteja G.docx,0.380162,0.119779,0.4,0.292004,3
+Gopi.docx,0.433712,0.041193,0.4,0.291274,1
+Resume - Kishore Kotapati - 218E - BA.docx,0.432713,0.042163,0.4,0.291113,1
+Reddemma_Lankipalle.docx,0.342251,0.041496,0.7,0.290649,1
+Siddhartha Gandroju.docx,0.432242,0.040642,0.4,0.290345,1
+Ramachandra EDA.docx,0.350112,0.15518,0.4,0.289369,4
+Amrinder Business Analyst.docx,0.367547,0.0,0.7,0.288773,0
+Jayadattaperi N.docx,0.426899,0.040152,0.4,0.287503,1
+vema reddy.docx,0.372671,0.117406,0.4,0.287428,3
+Deepika Chintalapati.docx,0.453856,0.0,0.4,0.286928,0
+Sravani Battu.docx,0.427738,0.121169,0.2,0.286278,3
+mahesh_Java.docx,0.423144,0.04039,0.4,0.285708,1
+AnilAgarwal.docx,0.451398,0.0,0.4,0.285699,0
+Chandler_BA.docx,0.421224,0.041818,0.4,0.285248,1
+sanjay kumar.docx,0.393955,0.079853,0.4,0.284926,2
+Tarun Resume.docx,0.414973,0.043818,0.4,0.282823,1
+Shiuli Mahmud.docx,0.415616,0.042163,0.4,0.282565,1
+HARI_Sr.Java Developer.docx,0.388769,0.077922,0.4,0.281657,2
+venu b.docx,0.359572,0.116883,0.4,0.280695,3
+Krishna Kuruvella.docx,0.383562,0.080303,0.4,0.279887,2
+Vivek.BSA.docx,0.349617,0.0,0.7,0.279808,0
+ronith s.docx,0.410139,0.040642,0.4,0.279294,1
+Niteesh Java Developer.docx,0.437046,0.0,0.4,0.278523,0
+Tejaswi-resume.docx,0.405263,0.0,0.5,0.277631,0
+Pankaj BSA.docx,0.404378,0.042929,0.4,0.277214,1
+Satish Uduta.docx,0.434223,0.0,0.4,0.277111,0
+Tanmay_Dam_Resume_BA.docx,0.402468,0.042929,0.4,0.276259,1
+SUNITHA Project Manager (1).docx,0.43133,0.0,0.4,0.275665,0
+Harika_java.docx,0.401509,0.040909,0.4,0.275073,1
+Haarika_BA.docx,0.429479,0.0,0.4,0.274739,0
+manish_singh_resume.docx,0.400258,0.041496,0.4,0.274653,1
+Ranjan_Project Manager-Scrum Master.docx,0.400308,0.040909,0.4,0.274472,1
+Shaker Resume.docx,0.369446,0.082386,0.4,0.273558,2
+Navneeth Resume.docx,0.425261,0.0,0.4,0.272631,0
+Francis Gomes Resume.docx,0.425075,0.0,0.4,0.272538,0
+ram krishna.docx,0.367221,0.082386,0.4,0.272446,2
+Nikith Reddy.docx,0.338837,0.121169,0.4,0.271828,3
+Naresh V.docx,0.453304,0.039926,0.2,0.270626,1
+Vikash_BA_Ab.docx,0.389427,0.043357,0.4,0.269888,1
+Sai Srinivas_Sr_Java_Developer.docx,0.36209,0.079426,0.4,0.268844,2
+Ramteja Motupalli.docx,0.417492,0.0,0.4,0.268746,0
+Nandini_Resume.docx,0.415877,0.0,0.4,0.267939,0
+Spoorthi Finance BSA Resume.docx,0.384796,0.042929,0.4,0.267423,1
+ravikiran JALASUTRAPU.docx,0.413002,0.0,0.4,0.266501,0
+Sougandh_Java Fullstack Developer.docx,0.412117,0.0,0.4,0.266058,0
+Rao_Java.docx,0.382103,0.040909,0.4,0.26537,1
+BA - Navneet.docx,0.410672,0.0,0.4,0.265336,0
+harish S.docx,0.324818,0.121925,0.4,0.265083,3
+Sahas BA Resume.docx,0.38027,0.042532,0.4,0.265021,1
+KIRAN KUMAR.docx,0.350057,0.082991,0.4,0.264076,2
+Rajendra-PMP-CSM.docx,0.40804,0.0,0.4,0.26402,0
+Mohamad Jamil.docx,0.373462,0.0,0.5,0.261731,0
+Gautami Bulusu Mobile Testing 3.docx,0.402683,0.0,0.4,0.261342,0
+komal patel.docx,0.399638,0.0,0.4,0.259819,0
+Tarun RESUME-BSAT.docx,0.397594,0.0,0.4,0.258797,0
+Vishnu Java dev.docx,0.427304,0.0,0.3,0.258652,0
+Vishnu J.docx,0.427304,0.0,0.3,0.258652,0
+Ujvala BA Feb 20.docx,0.33771,0.084326,0.4,0.258369,2
+Nilesh-resume_1_phplead.docx,0.394416,0.0,0.4,0.257208,0
+Uday_Maripelly.docx,0.421869,0.0,0.3,0.255934,0
+Mitali Barman_Resume.docx,0.451178,0.0,0.2,0.255589,0
+Bharat Arora_CV_PMP _ ERP1.docx,0.360446,0.043357,0.4,0.255398,1
+V Ashok A.docx,0.330991,0.079021,0.4,0.253153,2
+Akhil_Sr BSA.docx,0.294891,0.0,0.7,0.252446,0
+Varun.docx,0.384771,0.0,0.4,0.252386,0
+Varun Kumar.docx,0.355209,0.041193,0.4,0.252022,1
+Akhil.profile.docx,0.292648,0.0,0.7,0.251324,0
+Vamshi L.docx,0.324707,0.082386,0.4,0.251189,2
+Mahesh_Kamath_PM (1).docx,0.382145,0.0,0.4,0.251072,0
+Kuppurajbabu_BA.docx,0.380668,0.0,0.4,0.250334,0
+Shashank.docx,0.441485,0.041496,0.1,0.250266,1
+Jagan S Iyer PM.docx,0.379559,0.0,0.4,0.249779,0
+Bharatha BA Resume.docx,0.3794,0.083636,0.2,0.248973,2
+jeck P.docx,0.358212,0.198565,0.0,0.248604,5
+RaviRaju_Resume.docx,0.376107,0.0,0.4,0.248054,0
+Pavan Sr Business Analyst resume.docx,0.374044,0.0,0.4,0.247022,0
+Robinson.docx,0.339656,0.044862,0.4,0.245529,1
+Ravi Reddy.docx,0.342878,0.040152,0.4,0.245492,1
+Randy Adams.docx,0.325917,0.0,0.55,0.245459,0
+Sahithi K.docx,0.370842,0.0,0.4,0.245421,0
+Resume2018March.docx,0.324919,0.0,0.55,0.24496,0
+Smita Kamble_Resume.docx,0.457901,0.042532,0.0,0.243837,1
+Syed_Zia_Ashraf.docx,0.335571,0.043357,0.4,0.242961,1
+Mounika_P.docx,0.337333,0.03951,0.4,0.242495,1
+B Suresh Kumar_Project Manager_1.docx,0.363993,0.0,0.4,0.241996,0
+Atul_Mathur_Resume.docx,0.361953,0.0,0.4,0.240977,0
+Dhanalaxmi -BA.docx,0.330568,0.0,0.5,0.240284,0
+Resume_Spoorti Pandit_BSA.docx,0.418858,0.043818,0.1,0.239765,1
+Resume - PM Agile-Scrum.docx,0.35947,0.0,0.4,0.239735,0
+Priyanka Sr BSA Resume.docx,0.358424,0.0,0.4,0.239212,0
+B Shaker-Sr BSA-Scrum Master .docx,0.328342,0.041496,0.4,0.238694,1
+Ami Jape.docx,0.356137,0.0,0.4,0.238068,0
+Vishnu BA Resume.docx,0.326543,0.042163,0.4,0.238028,1
+Sumanth Manne Java Developer.docx,0.355647,0.0,0.4,0.237823,0
+Gokul Selvam S PM.docx,0.353947,0.0,0.4,0.236974,0
+AjayKumar.docx,0.352373,0.0,0.4,0.236186,0
+Ashwini J2EE Developer.docx,0.352064,0.0,0.4,0.236032,0
+Yohan BSA.docx,0.350914,0.0,0.4,0.235457,0
+Venkata_Sr.PHP_Developer.docx,0.321856,0.040642,0.4,0.235153,1
+Srivatsan_Project_Manager.docx,0.34792,0.0,0.4,0.23396,0
+Krishna Sr. BSA Resume.docx,0.347608,0.0,0.4,0.233804,0
+Praveen T.docx,0.342512,0.0,0.4,0.231256,0
+Naren Sr.BA .docx,0.34221,0.0,0.4,0.231105,0
+Naren Sr.BA.docx,0.34221,0.0,0.4,0.231105,0
+Adhi Gopalam - SM.docx,0.342193,0.0,0.4,0.231096,0
+KY BA PM UPDATED RESUME .docx,0.396752,0.087636,0.0,0.229049,2
+Adelina_Erimia_PMP1.docx,0.337606,0.0,0.4,0.228803,0
+Mohammad Resume.docx,0.399423,0.082991,0.0,0.228759,2
+Sai Krishna BA.docx,0.423272,0.0,0.1,0.226636,0
+Resume - Sr PM.docx,0.330462,0.0,0.4,0.225231,0
+Ashok Jayakumar - PM.docx,0.329947,0.0,0.4,0.224974,0
+Business Analyst_GHyma.docx,0.358184,0.042929,0.2,0.224117,1
+Othman - Project Manager.docx,0.327115,0.0,0.4,0.223557,0
+Mehul.docx,0.323981,0.0,0.4,0.22199,0
+Krishna_SrJava.docx,0.323934,0.0,0.4,0.221967,0
+Brahma-Resume (BA).docx,0.32254,0.0,0.4,0.22127,0
+sai k.docx,0.321141,0.0,0.4,0.22057,0
+jagadeesh k.docx,0.319583,0.0,0.4,0.219791,0
+MounikaReddy.docx,0.317743,0.0,0.4,0.218872,0
+Sarath M.docx,0.376373,0.0,0.2,0.218187,0
+Sr. Business Analyst.docx,0.31389,0.0,0.4,0.216945,0
+Krishnapriya_BA.docx,0.313288,0.0,0.4,0.216644,0
+BA with INV.docx,0.312288,0.0,0.4,0.216144,0
+Komala BSA Resume.docx,0.309009,0.0,0.4,0.214505,0
+mounika BA resume 7.docx,0.368468,0.0,0.2,0.214234,0
+Santosh Arugula BA.docx,0.306644,0.0,0.4,0.213322,0
+Naveen Arora.docx,0.424443,0.0,0.0,0.212221,0
+Deepika DC.docx,0.391028,0.044318,0.0,0.211025,1
+VIJETHA G.docx,0.298143,0.0,0.4,0.209072,0
+Anudeep N_Sr Java Developer.docx,0.296121,0.0,0.4,0.20806,0
+Priya_Sharma.docx,0.321455,0.0,0.3,0.205728,0
+avinash G.docx,0.288207,0.0,0.4,0.204103,0
+sairithvik alla.docx,0.319545,0.040152,0.2,0.203825,1
+Samir Naik-NJ - Feb 2018-V6.0.docx,0.407078,0.0,0.0,0.203539,0
+Samir Naik-NJ - Mar 2018-V3.0.docx,0.407078,0.0,0.0,0.203539,0
+RAMYA BUSINESS ANALYST RESUME.docx,0.376077,0.040909,0.0,0.202357,1
+nithin katapally.docx,0.253609,0.041496,0.4,0.201328,1
+ParthMPatel_BA.docx,0.341535,0.0,0.2,0.200768,0
+madhuri_java.docx,0.312488,0.04039,0.2,0.200381,1
+Amar Sr BSA.docx,0.280609,0.0,0.4,0.200304,0
+Avathika BA-Healthcare_.docx,0.391617,0.0,0.0,0.195809,0
+BA Kiran.docx,0.327875,0.0,0.2,0.193937,0
+Abiral_Pandey_Fullstack_Java.docx,0.327833,0.0,0.2,0.193916,0
+Mounika health care resume.docx,0.325459,0.0,0.2,0.19273,0
+Jennifer  M. Conte.docx,0.327994,0.080303,0.0,0.192103,2
+Shiva G-Java Resume.docx,0.262092,0.0,0.4,0.191046,0
+nithin Reddy.docx,0.230385,0.041193,0.4,0.18961,1
+Drakshajavauidev.docx,0.35033,0.040909,0.0,0.189483,1
+Pranay P.docx,0.290658,0.121925,0.0,0.188003,3
+Nikki_Nimmagadd.docx,0.313694,0.0,0.2,0.186847,0
+Vamshi Teja_Business Analyst.docx,0.282489,0.043818,0.2,0.186581,1
+Krishna_BSA.docx,0.299755,0.0,0.2,0.179878,0
+Sai kumar.docx,0.280795,0.0,0.2,0.170398,0
+employer_mounika details.docx,0.158705,0.0,0.0,0.079353,0
+Raju Goduguchinta_Technical Program Manager.docx,0.158705,0.0,0.0,0.079353,0
+"Resume Vishal PM - MSIS, PMP-PMI.docx",0.158705,0.0,0.0,0.079353,0
+SAURABH_PM.docx,0.158705,0.0,0.0,0.079353,0

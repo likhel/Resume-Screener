@@ -1,0 +1,224 @@
+python
+java
+javascript
+typescript
+c
+c++
+c#
+php
+ruby
+go
+rust
+swift
+kotlin
+matlab
+r
+bash
+shell scripting
+
+html
+css
+tailwind
+bootstrap
+react
+redux
+next.js
+angular
+vue
+svelte
+node.js
+express.js
+django
+flask
+fastapi
+rest api
+graphql
+json
+jwt
+
+mysql
+postgresql
+mongodb
+sqlite
+oracle
+redis
+elasticsearch
+cassandra
+nosql
+sql
+
+docker
+kubernetes
+jenkins
+github actions
+gitlab ci
+ansible
+terraform
+aws
+azure
+gcp
+linux
+nginx
+apache
+ci cd
+
+machine learning
+deep learning
+neural networks
+tensorflow
+pytorch
+keras
+sklearn
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+opencv
+xgboost
+lightgbm
+nlp
+natural language processing
+transformers
+bert
+sbert
+llm
+llama
+gpt
+huggingface
+computer vision
+ocr
+tesseract
+easyocr
+trocr
+
+data analysis
+data engineering
+data cleaning
+etl
+airflow
+spark
+hadoop
+big data
+
+docker
+kubernetes
+aws ec2
+aws s3
+lambda
+cloudwatch
+cloudformation
+azure devops
+gcp cloud run
+
+agile
+scrum
+testing
+unit testing
+integration testing
+qa
+automation testing
+selenium
+postman
+jmeter
+jira
+version control
+git
+github
+
+communication
+leadership
+problem solving
+teamwork
+project management
+time management
+
+
+API & Architecture
+rest api
+rest apis
+restful api
+restful apis
+api
+microservices
+microservice
+microservice architecture
+service-oriented architecture
+soa
+MLOps & DevOps
+mlops
+ml ops
+ci/cd
+continuous integration
+continuous deployment
+devops
+jenkins
+github actions
+gitlab ci
+Cloud Platforms
+gcp
+google cloud platform
+google cloud
+azure
+microsoft azure
+cloud computing
+Data Engineering
+data pipeline
+data pipelines
+etl
+data warehouse
+data warehousing
+big data
+apache spark
+spark
+dask
+airflow
+apache airflow
+Databases
+nosql
+mongodb
+postgresql
+postgres
+mysql
+redis
+cassandra
+dynamodb
+elasticsearch
+Version Control & Collaboration
+github
+gitlab
+bitbucket
+version control
+agile
+scrum
+jira
+confluence
+Additional ML/AI
+nlp
+computer vision
+cv
+scikit learn
+sklearn
+opencv
+transformers
+hugging face
+bert
+gpt
+llm
+large language model
+Testing & Quality
+unit testing
+integration testing
+pytest
+junit
+test driven development
+tdd
+Other Technical
+linux
+unix
+bash scripting
+json
+yaml
+xml
+regex
+regular expressions

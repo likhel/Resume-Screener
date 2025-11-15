@@ -1,5 +1,5 @@
 # ===========================================
-# 📄 Resume Text Extraction Script
+# Resume Text Extraction Script
 # Author: [Your Name]
 # Project: AI Resume Screener
 # Description:
@@ -45,7 +45,7 @@ def clean_resume_text(text):
 
 resumes_data = []
 
-print(f"📂 Extracting text from .docx resumes in '{RESUME_FOLDER}'...\n")
+print(f"Extracting text from .docx resumes in '{RESUME_FOLDER}'...\n")
 
 for filename in tqdm(os.listdir(RESUME_FOLDER)):
     if filename.endswith(".docx"):
@@ -64,5 +64,5 @@ df = pd.DataFrame(resumes_data)
 output_path = os.path.join(OUTPUT_FOLDER, "resumes_extracted.csv")
 df.to_csv(output_path, index=False, encoding='utf-8')
 
-print(f"\n✅ Extraction complete! {len(df)} resumes processed.")
-print(f"💾 Saved to: {output_path}")
+print(f"\n Extraction complete! {len(df)} resumes processed.")
+print(f" Saved to: {output_path}")

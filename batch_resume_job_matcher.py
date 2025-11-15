@@ -51,11 +51,11 @@ for _, job in tqdm(jobs.iterrows(), total=len(jobs), desc="🔍 Matching Jobs"):
 results_df = pd.DataFrame(results)
 output_path = "data/results/job_resume_matches.csv"
 results_df.to_csv(output_path, index=False)
-print(f"\n✅ Matching complete! Saved to: {output_path}")
+print(f"\n Matching complete! Saved to: {output_path}")
 
 # ---------- Step 6. Optional: Show Top Matches ----------
 topN = 5
-print("\n🏆 Top 5 matches for a random job:")
+print("\n Top 5 matches for a random job:")
 sample_job = results_df.sample(1)['Job Title'].iloc[0]
 top_matches = results_df[results_df['Job Title'] == sample_job].sort_values(by='Similarity Score', ascending=False).head(topN)
 print(top_matches)

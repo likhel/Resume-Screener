@@ -1,0 +1,24 @@
+Senior Software Engineer - Machine Learning
+
+We are seeking an experienced Senior Software Engineer with expertise in Machine Learning to join our AI team. The ideal candidate will design and implement scalable ML systems and work on cutting-edge AI applications.
+
+Responsibilities:
+- Design, develop, and deploy machine learning models for production environments
+- Build and optimize data pipelines for training and inference
+- Collaborate with cross-functional teams including data scientists and product managers
+- Implement best practices for MLOps and model monitoring
+- Conduct code reviews and mentor junior engineers
+
+Required Qualifications:
+- 5+ years of software engineering experience
+- Strong proficiency in Python and experience with ML frameworks (TensorFlow, PyTorch, scikit-learn)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Solid understanding of data structures, algorithms, and system design
+- Experience with SQL and NoSQL databases
+- Knowledge of Docker and Kubernetes for containerization
+
+Technical Skills:
+Python, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, AWS, Docker, Kubernetes, SQL, Git, REST APIs, Machine Learning, Deep Learning, Natural Language Processing, Data Pipelines, MLOps
+
+Location: San Francisco, CA (Hybrid)
+Experience: 5-8 years
