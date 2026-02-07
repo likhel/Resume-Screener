@@ -1,0 +1,18 @@
+{
+  "mode": "smart",
+  "weights": {
+    "embedding": 0.45,
+    "skill": 0.3,
+    "ner": 0.25,
+    "config_name": "senior_technical",
+    "description": "Senior roles - experience matters",
+    "reasoning": "\nJob Analysis:\n   \u2022 Seniority: SENIOR\n   \u2022 Role Type: TECHNICAL\n   \u2022 Experience Required: 8 years\n   \u2022 Technical Skills Mentioned: 14\n\nSelected Configuration: SENIOR TECHNICAL\n   \u2022 Senior roles - experience matters\n   \nWeights Applied:\n   \u2022 Embedding (semantic similarity): 45%\n   \u2022 Skills (technical match): 30%\n   \u2022 NER (experience/entities): 25%\n",
+    "analysis": {
+      "seniority": "senior",
+      "role_type": "technical",
+      "experience_years": 8,
+      "skill_count": 14
+    }
+  },
+  "timestamp": "2025-11-17T16:18:01.198078"
+}
