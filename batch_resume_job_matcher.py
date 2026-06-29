@@ -1,10 +1,4 @@
-# ===========================================
-# 🤖 Resume–Job Matching Script
-# Author: [Your Name]
-# Description:
-#   Compares resumes and job descriptions using
-#   Sentence-BERT embeddings and cosine similarity.
-# ===========================================
+
 
 import os
 import pandas as pd

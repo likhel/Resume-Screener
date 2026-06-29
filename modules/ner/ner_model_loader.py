@@ -1,8 +1,3 @@
-"""
-modules/ner/ner_model_loader.py
-
-Loads a spaCy model (with fallback to download if missing).
-"""
 
 import spacy
 import spacy.cli

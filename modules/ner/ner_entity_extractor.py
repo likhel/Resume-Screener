@@ -144,7 +144,7 @@ class EntityExtractor:
         for ent in doc.ents:
             if ent.label_ == "ORG":
                 # Filter out tech terms
-                if not self._is_tech_term(ent.text):
+                if not self._is_tech_term(ent.text): 
                     orgs.append(ent.text)
             elif ent.label_ in ("GPE", "LOC"):
                 # Filter out tech terms

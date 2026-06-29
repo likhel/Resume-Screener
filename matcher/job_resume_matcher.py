@@ -8,7 +8,7 @@ from modules.scorer.hybrid_ranker import HybridRanker
 from modules.ner.ner_phrase_matcher import PhraseSkillMatcher
 from modules.ner.ner_entity_extractor import EntityExtractor
 
-# Import smart weight selector (optional - falls back gracefully if not available)
+
 try:
     from smart_weight_selector import SmartWeightSelector
     SMART_WEIGHTS_AVAILABLE = True
@@ -17,9 +17,6 @@ except ImportError:
     print("  Smart weight selector not available, using default weights")
 
 
-# ------------------------------------------------------
-# Load all resources
-# ------------------------------------------------------
 def load_resume_data():
     meta_path = "data/embeddings/resume_metadata.csv"
     embed_path = "data/embeddings/resume_embeddings.pt"
